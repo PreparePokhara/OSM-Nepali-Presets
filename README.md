@@ -15,12 +15,12 @@ Presets for JOSM for Nepal Spcific Tags in Nepali
   1. Pratikshayalaya
   1. Brida Ashram
   * Aanath ashram
-  *khola
-  *nala
-  *kulo
-  *Bato
-  *Kuwa
-  *Galli
-  *Pokhari
-  *Aama Samuha ko Bhawan
-  *Yuwa club ko Bhawan
+  * khola
+  * nala
+  * kulo
+  * Bato
+  * Kuwa
+  * Galli
+  * Pokhari
+  * Aama Samuha ko Bhawan
+  * Yuwa club ko Bhawan

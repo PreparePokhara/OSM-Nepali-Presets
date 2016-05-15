@@ -24,3 +24,4 @@ Presets for JOSM for Nepal Spcific Tags in Nepali
   * Pokhari
   * Aama Samuha ko Bhawan
   * Yuwa club ko Bhawan
+  * Ghat

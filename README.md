@@ -15,3 +15,8 @@ Presets for JOSM for Nepal Spcific Tags in Nepali
   1. Pratikshayalaya
   1. Brida Ashram
   * Aanath ashram
+*khola
+*nala
+*kulo
+*Bato
+

@@ -14,4 +14,4 @@ Presets for JOSM for Nepal Spcific Tags in Nepali
   1. Kirana Pasal
   1. Pratikshayalaya
   1. Brida Ashram
-  *1. Aanath ashram
+  * Aanath ashram

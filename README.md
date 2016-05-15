@@ -5,8 +5,8 @@ Presets for JOSM for Nepal Spcific Tags in Nepali
 
 
 ### 1.List of features
-  1.  ??? ???????
-  1.  ?????? 
+  1. Astrologer
+  1.  Chautara
   1. Party Palace
   1. Padhera
   1. Khet
@@ -25,3 +25,9 @@ Presets for JOSM for Nepal Spcific Tags in Nepali
   * Aama Samuha ko Bhawan
   * Yuwa club ko Bhawan
   * Ghat
+  * Dhan Kutni Mill
+  * Masala kutni 
+  * Gyas Dipo
+  * Sahakari
+  * motorcycle workshop
+  

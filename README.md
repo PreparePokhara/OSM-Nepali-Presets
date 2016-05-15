@@ -5,7 +5,7 @@ Presets for JOSM for Nepal Spcific Tags in Nepali
 
 
 ### 1.List of features
-*1. Astologer
+* Astologer
 ..1. Chhautara
 ..1. Party Palace
 ..1. Padhera

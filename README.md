@@ -31,4 +31,5 @@ Presets for JOSM for Nepal Spcific Tags in Nepali
   * Sahakari
   * motorcycle workshop
   * Pani Tanki
+ 
   
